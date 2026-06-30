@@ -1,0 +1,18 @@
+{
+  "name": "cruise-adventure-cruise-marketplace",
+  "owner": {
+    "name": "craftwave"
+  },
+  "metadata": {
+    "description": "cruise-adventure-cruise 的 Claude Code 插件市场，由CruiseSkillBridge 发布。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "cruise-adventure-cruise",
+      "source": "./plugins/cruise-adventure-cruise",
+      "description": "为喜欢冒险的旅行者推荐刺激的邮轮产品，体验不同寻常的旅程。",
+      "version": "0.1.0"
+    }
+  ]
+}
